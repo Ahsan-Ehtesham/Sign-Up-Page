@@ -2,7 +2,7 @@
 
 Made with 💙 by Ahsan Ehtesham
 
-![Code by AE](Done.jpg)
+![Code by AE](Done.JPG)
 
 To support me:
 
